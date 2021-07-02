@@ -22,7 +22,7 @@ Initially we attempted to split data as per your representatives recommendation.
 ### Visual 2
 ![graph2](./images/heatmap_basic.png)
 ### Visual 3
-![graph3](./images/musical_runtime.png)
+![graph3](./images/R_Squared_Comparison.png)
 
 ## Conclusions
 
